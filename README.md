@@ -19,6 +19,8 @@ I build modern web applications and explore AI-powered solutions. I'm passionate
 <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" /></a>
 <a href="https://mui.com/"><img src="https://cdn.simpleicons.org/mui/007FFF" width="48" /></a>
 
+---
+
 
 
 ### ⚙️ Backend Development
@@ -30,6 +32,8 @@ I build modern web applications and explore AI-powered solutions. I'm passionate
 <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" width="48" /></a>
 <a href="https://www.djangoproject.com/"><img src="https://cdn.simpleicons.org/django/092E20" width="48" /></a>
 
+---
+
 
 
 ### 🗄️ Databases
@@ -38,6 +42,8 @@ I build modern web applications and explore AI-powered solutions. I'm passionate
 <a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" /></a>
 <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" /></a>
 <a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/FF4438" width="48" /></a>
+
+---
 
 
 
@@ -49,6 +55,8 @@ I build modern web applications and explore AI-powered solutions. I'm passionate
 <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" width="48" /></a>
 <a href="https://aws.amazon.com/"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" /></a>
 <a href="https://nginx.org/"><img src="https://cdn.simpleicons.org/nginx/009639" width="48" /></a>
+
+---
 
 
 
