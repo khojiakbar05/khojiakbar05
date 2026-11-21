@@ -53,7 +53,7 @@ I build modern web applications and explore AI-powered solutions. I'm passionate
 <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" /></a>
 <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" width="48" /></a>
 <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" width="48" /></a>
-<a href="https://aws.amazon.com/"><img src="https://cdn.simpleicons.org/amazon/FF9900" width="48" /></a>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" width="48" /></a>
 <a href="https://nginx.org/"><img src="https://cdn.simpleicons.org/nginx/009639" width="48" /></a>
 
 ---
@@ -65,7 +65,7 @@ I build modern web applications and explore AI-powered solutions. I'm passionate
 <a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" /></a>
 <a href="https://opencv.org/"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="48" /></a>
 <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" /></a>
-<a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" /></a>
+<a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=FFFFFF" width="48" /></a>
 <a href="https://qdrant.tech/"><img src="https://cdn.simpleicons.org/qdrant/DC244C" width="48" /></a>
 
 
