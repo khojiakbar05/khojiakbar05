@@ -53,7 +53,7 @@ I build modern web applications and explore AI-powered solutions. I'm passionate
 <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" /></a>
 <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" width="48" /></a>
 <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" width="48" /></a>
-<a href="https://aws.amazon.com/"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" /></a>
+<a href="https://aws.amazon.com/"><img src="https://cdn.simpleicons.org/amazon/FF9900" width="48" /></a>
 <a href="https://nginx.org/"><img src="https://cdn.simpleicons.org/nginx/009639" width="48" /></a>
 
 ---
