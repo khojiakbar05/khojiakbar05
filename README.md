@@ -11,7 +11,7 @@ I build modern web applications and explore AI-powered solutions. I'm passionate
 ### 🎨 Frontend Development
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/E34F26" width="48" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css3/1572B6" width="48" /></a>
+<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css3/1572B6" width="48" /></a> -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" /></a>
 <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" width="48" /></a>
@@ -19,6 +19,8 @@ I build modern web applications and explore AI-powered solutions. I'm passionate
 <a href="https://redux-toolkit.js.org/"><img src="https://cdn.simpleicons.org/redux/764ABC" width="48" /></a>
 <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" /></a>
 <a href="https://mui.com/"><img src="https://cdn.simpleicons.org/mui/007FFF" width="48" /></a>
+
+
 
 ### ⚙️ Backend Development
 
@@ -29,12 +31,16 @@ I build modern web applications and explore AI-powered solutions. I'm passionate
 <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" width="48" /></a>
 <a href="https://www.djangoproject.com/"><img src="https://cdn.simpleicons.org/django/092E20" width="48" /></a>
 
+
+
 ### 🗄️ Databases
 
 <a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" /></a>
 <a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" /></a>
 <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" /></a>
 <a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/FF4438" width="48" /></a>
+
+
 
 ### ☁️ DevOps & Tools
 
@@ -45,6 +51,8 @@ I build modern web applications and explore AI-powered solutions. I'm passionate
 <a href="https://aws.amazon.com/"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" /></a>
 <a href="https://nginx.org/"><img src="https://cdn.simpleicons.org/nginx/009639" width="48" /></a>
 
+
+
 ### 🤖 AI & Machine Learning
 
 <a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" /></a>
@@ -52,6 +60,8 @@ I build modern web applications and explore AI-powered solutions. I'm passionate
 <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" /></a>
 <a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" /></a>
 <a href="https://qdrant.tech/"><img src="https://cdn.simpleicons.org/qdrant/DC244C" width="48" /></a>
+
+
 
 ---
 
