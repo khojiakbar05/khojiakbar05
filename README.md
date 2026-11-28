@@ -1,4 +1,4 @@
-# Hi, I'm Khojiakbar MIKE 👋
+# Hi, I'm Khojiakbar (MIKE) 👋
 
 ### Software Engineer & Full-Stack Developer & AI Engineering 
 
